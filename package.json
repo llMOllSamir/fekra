@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "Mohamed Samir",
   "license": "ISC",
+  "engines": {
+    "node": "18.17.0"
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^1.41.0",
